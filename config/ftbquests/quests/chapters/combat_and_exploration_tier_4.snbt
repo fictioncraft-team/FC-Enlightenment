@@ -1,0 +1,10 @@
+{
+	id: "425C29A012995750",
+	group: "",
+	order_index: 11,
+	filename: "combat_and_exploration_tier_4",
+	title: "Combat and Exploration [Tier 4]",
+	icon: "futurepack:beam",
+	default_quest_shape: "",
+	quests: []
+}

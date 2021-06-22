@@ -1,0 +1,10 @@
+{
+	id: "4F5139BDFAB87E0C",
+	group: "",
+	order_index: 8,
+	filename: "magic_and_rituals_tier_3",
+	title: "Magic and Rituals [Tier 3]",
+	icon: "artisanworktables:workshop_mage",
+	default_quest_shape: "",
+	quests: []
+}

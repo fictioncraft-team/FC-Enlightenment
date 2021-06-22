@@ -1,0 +1,21 @@
+
+#AoA Synced config options. Do not edit on client-side, only edit on server-side.
+["General Settings"]
+	#Set this to false to disable AoA's resources functionality.
+	#WARNING: AoA makes no guarantees for completely stable or balanced gameplay with resources disabled.
+	resourcesEnabled = true
+	#Set this to false to disable AoA's skills functionality.
+	#WARNING: AoA makes no guarantees for completely stable or balanced gameplay with skills disabled.
+	skillsEnabled = true
+
+#These are common to both server and client, but you may edit it on either the client or server without it affecting the other
+["Unsynced Config Options"]
+	#Set this to true to enable more detailed debugging.
+	#If you don't mind your logs having a bit more info, or you are trying to figure out a bug or crash, this can be very helpful to have
+	doVerboseDebugging = false
+
+#Just for fun :)
+["Fun Options"]
+	#Set this to true to enable AoA hardcore mode.
+	hardcoreMode = false
+

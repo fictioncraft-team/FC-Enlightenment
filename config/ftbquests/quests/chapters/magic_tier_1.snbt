@@ -1,0 +1,10 @@
+{
+	id: "3C91FD6BEFFA29CB",
+	group: "",
+	order_index: 2,
+	filename: "magic_tier_1",
+	title: "Magic and Rituals [Tier 1]",
+	icon: "botania:pure_daisy",
+	default_quest_shape: "",
+	quests: []
+}

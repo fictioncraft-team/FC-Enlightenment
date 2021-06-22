@@ -1,0 +1,10 @@
+{
+	id: "7BA461B36EBA89F1",
+	group: "",
+	order_index: 6,
+	filename: "combat_and_exploration_tier_2",
+	title: "Combat and Exploration [Tier 2]",
+	icon: "minecraft:end_portal_frame",
+	default_quest_shape: "",
+	quests: []
+}

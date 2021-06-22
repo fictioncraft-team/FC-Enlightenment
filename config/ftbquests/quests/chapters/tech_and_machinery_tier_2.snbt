@@ -1,0 +1,10 @@
+{
+	id: "1418165F1CD02C36",
+	group: "",
+	order_index: 4,
+	filename: "tech_and_machinery_tier_2",
+	title: "Tech and Machinery [Tier 2]",
+	icon: "mekanism:metallurgic_infuser",
+	default_quest_shape: "",
+	quests: []
+}

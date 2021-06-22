@@ -1,0 +1,10 @@
+{
+	id: "3697DE1BA858924F",
+	group: "",
+	order_index: 9,
+	filename: "combat_and_exploration_tier_3",
+	title: "Combat and Exploration [Tier 3]",
+	icon: "aoa3:observing_eye",
+	default_quest_shape: "",
+	quests: []
+}

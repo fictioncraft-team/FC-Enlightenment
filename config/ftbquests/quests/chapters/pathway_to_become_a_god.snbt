@@ -1,0 +1,10 @@
+{
+	id: "588D7FD050A11361",
+	group: "",
+	order_index: 12,
+	filename: "pathway_to_become_a_god",
+	title: "Pathway to Become a God",
+	icon: "minecraft:command_block",
+	default_quest_shape: "",
+	quests: []
+}

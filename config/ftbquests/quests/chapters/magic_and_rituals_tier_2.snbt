@@ -1,0 +1,10 @@
+{
+	id: "45BF636CE4F466B0",
+	group: "",
+	order_index: 5,
+	filename: "magic_and_rituals_tier_2",
+	title: "Magic and Rituals [Tier 2]",
+	icon: "eidolon:codex",
+	default_quest_shape: "",
+	quests: []
+}

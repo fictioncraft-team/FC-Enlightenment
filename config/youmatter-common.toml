@@ -1,0 +1,19 @@
+#Use the filterItems list as blacklist (true) or as whitelist (false). Whitelist means, that you can only duplicate those items in that list. Blacklist is vice-versa.
+filterMode = true
+#List of items that are being treated specially. See filterMode for further details. Format: "modid:item"
+filterItems = ["youmatter:umatter_bucket", "youmatter:stabilizer_bucket"]
+#Overrides: Set your desired required U-Matter values for each item. These do not apply when you e.g. have whitelist on but it doesn't include the desired override. Format: "modid:item=amount"
+overrides = ["minecraft:diamond=2500", "minecraft:nether_star=5000"]
+#The default amount that is required to duplicate an item if it is not overridden.
+defaultAmount = 1000
+#The energy consumption of the replicator per tick. Default: 2048
+energyReplicator = 2048
+#The energy consumption of the encoder per tick. Default: 512
+energyEncoder = 512
+#The energy consumption of the scanner per tick. Default: 512
+energyScanner = 512
+#Determines how much U-Matter [in mB] the creator produces every work cycle. Energy is withdrawn like this: if energy more than 30% of max energy, consume 30% and add [whatever value below] of U-Matter to the tank. Default is 1mB/work cycle. Don't increase this too much due to balancing issues.
+productionPerTick = 1
+#Allows you to specify an alternative to YouMatter's stabilizer fluid. Leave empty if you only want to accept the default fluid.
+alternativeStabilizer = ""
+

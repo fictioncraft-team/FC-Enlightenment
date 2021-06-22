@@ -1,0 +1,10 @@
+{
+	id: "1D8C21F8AF4BD08D",
+	group: "",
+	order_index: 7,
+	filename: "tech_and_machinery_tier_3",
+	title: "Tech and Machinery [Tier 3]",
+	icon: "refinedstorage:creative_controller",
+	default_quest_shape: "",
+	quests: []
+}

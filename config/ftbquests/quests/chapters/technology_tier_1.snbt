@@ -1,0 +1,10 @@
+{
+	id: "52AB88707F1C25D5",
+	group: "",
+	order_index: 1,
+	filename: "technology_tier_1",
+	title: "Tech and Machinery [Tier 1]",
+	icon: "tconstruct:smeltery_controller",
+	default_quest_shape: "",
+	quests: []
+}

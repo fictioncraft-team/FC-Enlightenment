@@ -1,0 +1,10 @@
+{
+	id: "6503DA3C7236D851",
+	group: "",
+	order_index: 0,
+	filename: "introduction",
+	title: "Introduction",
+	icon: "minecraft:writable_book",
+	default_quest_shape: "",
+	quests: []
+}

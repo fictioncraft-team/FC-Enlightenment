@@ -1,0 +1,10 @@
+{
+	id: "1161F7D77A5F7680",
+	group: "",
+	order_index: 10,
+	filename: "tech_and_machinery_tier_4",
+	title: "Tech and Machinery [Tier 4]",
+	icon: "futurepack:escanner",
+	default_quest_shape: "",
+	quests: []
+}
